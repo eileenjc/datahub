@@ -15,7 +15,15 @@
                         "externalUrl": null,
                         "description": "model.sample_dbt.customer_details",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -102,7 +110,15 @@
                         "externalUrl": null,
                         "description": "model.sample_dbt.monthly_billing_with_cust",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -241,7 +257,15 @@
                         "externalUrl": null,
                         "description": "model.sample_dbt.payments_base",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -455,7 +479,15 @@
                         "externalUrl": null,
                         "description": "model.sample_dbt.payments_by_customer_by_month",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -572,7 +604,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.actor",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -691,7 +731,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.address",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -870,7 +918,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.category",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -974,7 +1030,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.city",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1096,7 +1160,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.country",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1200,7 +1272,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.customer",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1409,7 +1489,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_01",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1561,7 +1649,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_02",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1710,7 +1806,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_03",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -1859,7 +1963,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_04",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -2008,7 +2120,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_05",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {
@@ -2157,7 +2277,15 @@
                         "externalUrl": null,
                         "description": "source.sample_dbt.pagila.payment_p2020_06",
                         "uri": null,
-                        "tags": []
+                        "tags": [],
+                        "batchId": null,
+                        "orgId": null,
+                        "feedType": null,
+                        "dataProfileUrl": null,
+                        "url": null,
+                        "fileSize": null,
+                        "fileArrivalDate": null,
+                        "version": null
                     }
                 },
                 {

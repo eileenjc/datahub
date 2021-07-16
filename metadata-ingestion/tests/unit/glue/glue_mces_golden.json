@@ -53,7 +53,15 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null
             }
           },
           {
@@ -249,7 +257,15 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null
             }
           },
           {
@@ -357,7 +373,15 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null
             }
           },
           {
@@ -752,7 +776,15 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null
             }
           }
         ]
@@ -938,7 +970,15 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null
             }
           }
         ]

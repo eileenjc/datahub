@@ -1,0 +1,11 @@
+---
+source:
+  type: "file"
+  config:
+    # ./examples/mce_files/single_mce.json
+    filename: ./examples/hv-demo/data/users.json
+
+sink:
+  type: "datahub-rest"
+  config:
+    server: "http://localhost:8080"

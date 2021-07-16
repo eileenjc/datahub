@@ -1,0 +1,3 @@
+acryl-datahub
+acryl-datahub[datahub-kafka]
+elasticsearch==7.10.1
